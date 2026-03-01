@@ -1,0 +1,33 @@
+{
+  "timestamp": "20260301_225944",
+  "sensor_data": {
+    "timestamp": "2026-03-01T22:59:42.831938",
+    "face": {
+      "ear": 0.308,
+      "blink_rate": 0.243,
+      "mouth_open": 0.216,
+      "eyebrow_distance": 0.528,
+      "head_tilt": 8.09,
+      "smile_score": 0.831
+    },
+    "sensors": {
+      "heart_rate": 108,
+      "temperature": 36.4,
+      "gsr": 484
+    },
+    "speech": {
+      "transcript": "I am calm and focused.",
+      "sentiment": "positive",
+      "confidence": 0.71,
+      "word_count": 5
+    },
+    "quality": {
+      "face_active": true,
+      "sensors_active": true,
+      "speech_active": true,
+      "active_sources": 3,
+      "overall": "excellent"
+    }
+  },
+  "ai_result": "AI analizi ba\u015far\u0131s\u0131z: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}"
+}

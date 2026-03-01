@@ -1,0 +1,33 @@
+{
+  "timestamp": "20260301_230935",
+  "sensor_data": {
+    "timestamp": "2026-03-01T23:09:35.487632",
+    "face": {
+      "ear": 0.386,
+      "blink_rate": 0.38,
+      "mouth_open": 0.345,
+      "eyebrow_distance": 0.571,
+      "head_tilt": 9.89,
+      "smile_score": 0.411
+    },
+    "sensors": {
+      "heart_rate": 85,
+      "temperature": 37.0,
+      "gsr": 414
+    },
+    "speech": {
+      "transcript": "This is really frustrating and annoying.",
+      "sentiment": "negative",
+      "confidence": 0.82,
+      "word_count": 6
+    },
+    "quality": {
+      "face_active": true,
+      "sensors_active": true,
+      "speech_active": true,
+      "active_sources": 3,
+      "overall": "excellent"
+    }
+  },
+  "ai_result": "AI analizi ba\u015far\u0131s\u0131z: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+}

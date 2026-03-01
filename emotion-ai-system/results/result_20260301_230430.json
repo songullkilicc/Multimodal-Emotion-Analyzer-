@@ -1,0 +1,33 @@
+{
+  "timestamp": "20260301_230430",
+  "sensor_data": {
+    "timestamp": "2026-03-01T23:04:27.492825",
+    "face": {
+      "ear": 0.376,
+      "blink_rate": 0.864,
+      "mouth_open": 0.034,
+      "eyebrow_distance": 0.511,
+      "head_tilt": 12.61,
+      "smile_score": 0.85
+    },
+    "sensors": {
+      "heart_rate": 109,
+      "temperature": 36.0,
+      "gsr": 413
+    },
+    "speech": {
+      "transcript": "Everything is going great, I am happy!",
+      "sentiment": "positive",
+      "confidence": 0.88,
+      "word_count": 7
+    },
+    "quality": {
+      "face_active": true,
+      "sensors_active": true,
+      "speech_active": true,
+      "active_sources": 3,
+      "overall": "excellent"
+    }
+  },
+  "ai_result": "AI analizi ba\u015far\u0131s\u0131z: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+}
